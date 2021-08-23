@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.2)
-    (drawings 45)
+    (drawings 46)
     (tracks 291)
     (zones 0)
     (modules 21)
@@ -1056,6 +1056,9 @@
     )
   )
 
+  (gr_text "KNOB_MAIN V1.0 by XiNGRZ" (at 192 98) (layer F.SilkS)
+    (effects (font (size 0.8 0.8) (thickness 0.12)) (justify right))
+  )
   (dimension 10 (width 0.15) (layer Dwgs.User)
     (gr_text "10.000 mm" (at 118.7 90 270) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
